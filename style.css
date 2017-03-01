@@ -1,0 +1,113 @@
+
+body{
+  font-family: "Josefin Sans";
+
+}
+
+
+}
+.navbar-header h1 {
+  font-weight: bold;
+  color:black;
+  font-size: 55px;
+  
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+.navbar-right {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+
+.container {
+    background-color:#D3D3D3;
+
+
+}
+
+.container-fluid {
+    background-color: #ffe761;
+}
+
+.panel-title {
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    height: 100px;
+    padding: 40px;
+    margin: 20px;
+}
+}
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+.socialmediaicons img {
+	height: 60px;
+	width: 60px;
+
+
+}
+.panel-body {
+	text-align: center;
+
+}
+
+.panel-heading {
+    background-color: #ffe761;
+
+}
+
+.work {
+  position: relative;
+  width: 274px;
+  overflow: auto;
+  float: left;
+  margin: 20px 0 25px;
+}
+
+.work:nth-child(even) {
+  margin-right: 40px;
+}
+
+.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: .8;
+}
+
+.work h3 {
+  position: absolute;
+  bottom: 20px;
+  margin-bottom: 0;
+  padding: 15px;
+  width: 100%;
+  color: #000;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 300;
+  background: #ffe761;
+  border-bottom: 0;
+}
+
+.auth-image {
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+  float: left;
+}
+
+footer {
+      text-align: center;
+      color: black;
+      padding: 15px;
+}
